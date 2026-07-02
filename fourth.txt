@@ -1,1 +1,2 @@
 ceci est l’étape 5 de Git
+Modification étape 12 : j'ai mis à jour le fichier 
